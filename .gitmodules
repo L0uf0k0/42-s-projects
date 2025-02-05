@@ -1,0 +1,21 @@
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:L0uf0k0/push_swap.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:L0uf0k0/pipex.git
+[submodule "fdf"]
+	path = fdf
+	url = git@github.com:L0uf0k0/fdf.git
+[submodule "gnl"]
+	path = gnl
+	url = git@github.com:L0uf0k0/gnl.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:L0uf0k0/ft_printf.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:L0uf0k0/libft.git
+[submodule "philo"]
+	path = philo
+	url = git@github.com:L0uf0k0/philo.git
